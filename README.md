@@ -27,9 +27,9 @@
 
 拥有属于自己的仓库
 
-cd C:\Users\19761\Documents\hello-github
-git add .
-git commit -m "我用VS Code改的"
-git push
+cd C:\Users\19761\Documents\hello-github  
+git add .  
+git commit -m "我用VS Code改的"  
+git push  
 
 用 powershell 更新推送到仓库
