@@ -14,4 +14,10 @@
 - [x] 配置用户信息
 - [x] 创建本地仓库
 - [x] 第一次提交（commit）
-- [ ] 推送到 GitHub（push）
+- [x] 推送到 GitHub（push）
+
+## 我的 GitHub 主页
+
+我的 GitHub 地址：https://github.com/cairobaby
+
+这是我的第一个仓库，以后会放更多有趣的项目在这里！
